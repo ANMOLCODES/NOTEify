@@ -1,0 +1,2 @@
+# NOTEify
+Note taking app
