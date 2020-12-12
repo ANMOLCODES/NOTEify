@@ -1,0 +1,12 @@
+.message {
+    padding: 5px 2px;
+    background-color: #bebebe;
+    cursor: pointer;
+    box-shadow: 0 2px #979797;
+  }
+  
+  .message:active {
+    position: relative;
+    top: 2px;
+    box-shadow: none;
+  }
